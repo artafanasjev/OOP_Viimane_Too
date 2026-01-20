@@ -1,5 +1,5 @@
 import easygui
-from klassid import Karakter, Vaenlane
+from klassid import Karakterid, Vaenlane
 import sys
 
 nimi = easygui.enterbox("Sisesta oma tegelase nimi: ")
